@@ -1,5 +1,4 @@
 import { HashMap } from "./HashMap.js";
-import { LinkedList } from "./LinkedList.js";
 const test = new HashMap();
 test.set("apple", "red");
 test.set("banana", "yellow");
